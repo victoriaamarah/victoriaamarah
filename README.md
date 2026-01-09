@@ -1,15 +1,17 @@
 ## About Me
 
-I'm an aspiring Data Engineer passionate about building robust data pipelines and ensuring data quality. Currently developing my skills through hands-on projects focused on ETL processes, data validation, and production-ready implementations.
+Hi, I'm Victoria 👋
+I'm an aspiring Data Engineer building production-ready data pipelines.
 
-### Focus Areas:
-- ETL Pipeline Development
-- Data Quality & Validation
-- Python & SQL
-- Cloud Data Engineering (learning)
+Currently working on:
+- ETL pipelines with comprehensive data validation
+- Multi-source data ingestion patterns
+- SQL projects for data warehousing
 
-### 🌱 Currently Learning
-- Advanced SQL for data warehousing
-- Medallion architecture (Bronze/Silver/Gold)
-- Cloud platforms (AWS/Azure)
-- Workflow orchestration (Airflow)
+I recently built a **customer order processing pipeline** featuring incremental loading, data quality checks, and SQLite integration.
+
+I'm learning **cloud data engineering** and **workflow orchestration** while building my portfolio.
+
+---
+
+**Status:** Actively seeking entry-level Data Engineering opportunities (Remote)
