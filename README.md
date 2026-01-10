@@ -11,7 +11,3 @@ Currently working on:
 I recently built a **customer order processing pipeline** featuring incremental loading, data quality checks, and SQLite integration.
 
 I'm learning **cloud data engineering** and **workflow orchestration** while building my portfolio.
-
----
-
-**Status:** Actively seeking entry-level Data Engineering opportunities (Remote)
