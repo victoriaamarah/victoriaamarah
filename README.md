@@ -1,5 +1,3 @@
-## About Me
-
 Hi, I'm Victoria 👋
 I'm an aspiring Data Engineer building production-ready data pipelines.
 
